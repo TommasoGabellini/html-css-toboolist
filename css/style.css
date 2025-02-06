@@ -11,9 +11,13 @@ header{
     background-color: #ffffff;
 }
 main{
-    background-color: #ffffff;
+    background-color: #3b56a9;
     height: 600px;
-    margin-top: 50px;
-    margin-left: 150px;
-    margin-right:150px;
+    padding: 40px;
+   
 } 
+.container{
+    width: 60%;
+    margin: 0 auto;
+    height: 400px;
+}
