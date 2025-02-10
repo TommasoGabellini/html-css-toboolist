@@ -3,7 +3,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    background-color: #7f7f7f;
+    background-color: #ffffff;
 }
 
 header{
@@ -12,7 +12,7 @@ header{
 }
 main{
     background-color: #3b56a9;
-    height: 600px;
+    height: 100%;
     padding: 40px;
    
 } 
@@ -20,4 +20,34 @@ main{
     width: 60%;
     margin: 0 auto;
     height: 400px;
+}
+.nan{
+    background-color: #ffffff;
+    margin-bottom: 10px;
+    padding: 10px 30px;
+}
+.bottone-blu{
+    background-color: #40a3ff;
+    font-size: smaller;
+    padding: 6px 8px;
+ margin-top: 8px;
+ margin-left: 20px;
+ border-radius: 10px;
+}
+
+.bottone-bianco{
+    background-color: #ffffff;
+    font-size: smaller;
+    padding: 6px 8px;
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+
+.bottone-blu:hover{
+    background-color: #7fff00;
+    color: #2c2aa5;
+}
+
+.title{
+    margin-right: 
 }
